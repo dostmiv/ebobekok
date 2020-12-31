@@ -31,6 +31,9 @@ public class Main {
 		if (ebob == 1)
 			System.out.print("there is no available ebob for those values. = ");
 		return ebob;
+		/*
+		easier method to do is : for (int i = 1 ; i<=a && i<=b ; i++){}
+		*/ 
 	}
 	
 	public static void main (String [] Args) {
